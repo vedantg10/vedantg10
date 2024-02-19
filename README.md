@@ -5,7 +5,7 @@ I'm a passionate and versatile software engineer currently pursuing a master of 
 
 As a lifelong learner, I thrive on exploring novel approaches to software development and am eager to contribute to impactful projects that push the boundaries of innovation.
 
-### 💬 Social:
+## 💬 Social:
 <a href="https://www.linkedin.com/in/vedant-g/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/i_ved10/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://discordapp.com/users/vedant10#9886" target="_blank" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -37,7 +37,7 @@ As a lifelong learner, I thrive on exploring novel approaches to software develo
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
 
 
-## 📊 Analytics
+## 📊 Analytics:
 
 ![vedantg10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantg10&theme=highcontrast&hide_border=false)
 ![vedantg10's Stats](https://github-readme-stats.vercel.app/api?username=vedantg10&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
