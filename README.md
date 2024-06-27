@@ -1,9 +1,13 @@
 ### Hello World 👋 It's Vedant Gupta
 
 <br/>
-I'm a passionate and versatile software engineer currently pursuing a master of science degree in Computer Software Engineering at the University of Calgary. With over 3.5 years of hands-on experience in Full Stack Development, I specialize in JavaScript, Python, and Linux. My journey in software development has exposed me to a diverse range of technologies, including ReactJS, Angular, NodeJS, MongoDB, GIT, JIRA, AWS, and more. 
+I'm a passionate and versatile software engineer currently pursuing an MSc in Computer Software Engineering. Under the guidance of Dr. Rushi Vyas, I'm working on an exciting project titled "Respiration Rates and Cough Detection using Machine Learning with Wearable Capacitive Touchpads in Smartphones." My research focuses on developing and deploying machine learning models to analyze data from capacitive touchpads, achieving up to 95% diagnostic accuracy in detecting respiration rates and coughs. This project allows me to blend my full-stack development skills with machine learning techniques to create innovative and effective solutions. With over 3.5 years of hands-on experience in Full Stack Development, I specialize in JavaScript, Python, and Linux. As a lifelong learner, I thrive on exploring novel approaches to software development and am eager to contribute to impactful projects that push the boundaries of innovation.
 
-As a lifelong learner, I thrive on exploring novel approaches to software development and am eager to contribute to impactful projects that push the boundaries of innovation.
+Beyond my technical expertise, I enjoy playing sports, meeting new people, and exploring new places. If you're looking for a skilled professional with a proven track record, let's connect. I'm always open to discussing new projects or the latest tech trends.
+
+Feel free to reach me at vedant.gupta1@ucalgary.ca.
+
+
 
 ## 💬 Social:
 <a href="https://www.linkedin.com/in/vedant-g/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
